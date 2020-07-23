@@ -1,0 +1,9 @@
+Control de Cambios
+
+application/config/databases.php
+application/config/autoload.php
+application/config/config.php
+
+application/models/CodigosPostalesModel.php
+application/views/inicio.php
+application/controllers/Inicio.php
